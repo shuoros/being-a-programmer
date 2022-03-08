@@ -20,6 +20,7 @@ Please append your joy/joys at the end of the list like this template:
 
 ```html
 <tr>
+  <td>LAST_NUMBER_MINUS_ONE</td>
   <td>YOUR_JOY</td>
   <td><a href="<YOUR_GITHUB_ACCOUNT>">YOUR_NAME</a></td>
 </tr>
