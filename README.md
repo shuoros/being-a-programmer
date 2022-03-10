@@ -29,4 +29,9 @@ So here we go, **The Free Joys Of Being A Programmer :D**
     <td>The very moment that you realize you become master of your IDE's shortcuts and do not need to take your hands off the keyboard.</td>
     <td><a href="https://github.com/shuoros">Soroush Shemshadi</a></td>
   </tr>
+    <tr>
+    <td>3</td>
+    <td>The moment when you finish turning a long and repetitive process into an automation script and it just works much faster. </td>
+    <td><a href="https://github.com/oMoMa">Mehrshad Shafaghi</a></td>
+  </tr>
 </table>
